@@ -1,4 +1,5 @@
 
+alert("Vamos a resolver ecuaciones del tipo ax+b=0 donde a y b son números reales y a!=0")
 function resolverEcuacion() {
     let coeficientesValidos = false
 
